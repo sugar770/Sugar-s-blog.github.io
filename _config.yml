@@ -18,7 +18,7 @@ title: Sugar's Blog # the main title
 
 tagline: 一个记录技术学习和思考的地方 # it will display as the subtitle
 
-description: 这里写下你的博客描述，会被搜索引擎收录 # used by seo meta and the atom feed
+description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
 
 # Fill in the protocol & hostname for your site.
